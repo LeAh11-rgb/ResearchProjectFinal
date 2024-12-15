@@ -1,0 +1,36 @@
+{
+  "version": "3",
+  "data": {
+    "uuid": "84126b53-e398-4bb3-88f4-f48f9c84e240",
+    "title": "Extinction gambling task with unknown probabilities ",
+    "description": "",
+    "groupStudy": false,
+    "dirName": "extinction-gambling-task-with-unknown-probabilities",
+    "comments": "",
+    "jsonData": null,
+    "componentList": [
+      {
+        "uuid": "a2c0d8ec-751c-4e60-9edb-0a91ec36da7c",
+        "title": "Extinction gambling task with unknown probabilities ",
+        "htmlFilePath": "index.html",
+        "reloadable": true,
+        "active": true,
+        "comments": "",
+        "jsonData": null
+      }
+    ],
+    "batchList": [
+      {
+        "uuid": "a4791f38-d14c-4fb7-ab17-56bcdc6ef089",
+        "title": "Default",
+        "active": true,
+        "maxActiveMembers": null,
+        "maxTotalMembers": null,
+        "maxTotalWorkers": null,
+        "allowedWorkerTypes": null,
+        "comments": null,
+        "jsonData": null
+      }
+    ]
+  }
+}
